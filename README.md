@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @mgunhan19
-- 👀 I’m interested in ...
-- 🌱 I’m C++ learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to mgunhan736@gmail.com reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm **Mehmet Günhan**
 
-<!---
-mgunhan19/mgunhan19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎮 **Game Developer | Mobile & PC Game Enthusiast | C++ Learner**
+
+---
+
+- 👀 **Interests:** Football ⚽, Digital Game Development, Mobile App Development, and 3D & 2D Game Design  
+- 🌱 **Currently learning:** C++, C, and C#  
+- 💞️ **Looking to collaborate on:** Game development projects and indie game ideas  
+- 📫 **Contact me at:** mgunhan736@gmail.com  
+
+---
+
+> “Turning ideas into interactive experiences.”  
